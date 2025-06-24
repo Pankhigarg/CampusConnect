@@ -46,18 +46,7 @@ The hostel section includes a complaints feature with contact information for ho
 - **Announcements**: Important hostel-related notifications and updates
 - **Maintenance Requests**: System for reporting and tracking maintenance issues
 
-### 5. Resource Hub
-
-This section offers links to various resources like past year questions, textbooks, study materials, and information about college clubs, including links to their social media pages and websites.
-
-- **Academic Materials**: Organized repository of study resources by subject and year
-- **Past Examinations**: Archive of previous years' question papers and solutions
-- **E-Books & References**: Digital library of textbooks and reference materials
-- **Club Directory**: Comprehensive information about all college clubs and societies
-- **Event Calendar**: Upcoming academic and extracurricular events
-- **Contribution System**: Students can upload and share their own resources
-
-### 6. Attendance Tracking
+### 5. Attendance Tracking
 
 A comprehensive system for students to monitor and manage their class attendance across subjects.
 
@@ -65,8 +54,7 @@ A comprehensive system for students to monitor and manage their class attendance
 - **Manual Entry**: Add missed attendance records with verification
 - **Percentage Forecasting**: Calculate how future absences might affect overall attendance
 
-
-### 7. Ride Sharing
+### 6. Ride Sharing
 
 A platform for students to coordinate shared transportation for off-campus trips and events.
 
@@ -75,7 +63,7 @@ A platform for students to coordinate shared transportation for off-campus trips
 - **Participant Management**: Track who has joined each ride
 - **Cost Sharing**: Calculate and split transportation expenses
 
-### 9. Chat System
+### 7. Chat System
 
 An integrated messaging platform that allows students to communicate directly within the application.
 

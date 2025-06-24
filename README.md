@@ -27,16 +27,9 @@ This feature enables students to buy and sell items within the college community
 - **Search & Filter**: Advanced search with price range, condition, and category filters
 - **Saved Listings**: Users can save items they're interested in for later
 
-### 3. Eateries Section
 
-This section provides detailed information about the college cafeteria . It includes phone numbers, menus, and locations of eateries, offering students an easy way to plan their meals.
 
-- **Eatery Profiles**: Comprehensive information about each food outlet
-- **Menu Display**: Complete menu with prices and availability
-- **Rating System**: Student ratings and reviews for each eatery
-- **Operating Hours**: Up-to-date information on opening and closing times
-
-### 4. Hostel Management
+### 3. Hostel Management
 
 The hostel section includes a complaints feature with contact information for hostel and mess presidents. It also features a dynamic mess menu that adjusts based on the time of day.
 
@@ -46,7 +39,7 @@ The hostel section includes a complaints feature with contact information for ho
 - **Announcements**: Important hostel-related notifications and updates
 - **Maintenance Requests**: System for reporting and tracking maintenance issues
 
-### 5. Attendance Tracking
+### 4. Attendance Tracking
 
 A comprehensive system for students to monitor and manage their class attendance across subjects.
 
@@ -54,7 +47,7 @@ A comprehensive system for students to monitor and manage their class attendance
 - **Manual Entry**: Add missed attendance records with verification
 - **Percentage Forecasting**: Calculate how future absences might affect overall attendance
 
-### 6. Ride Sharing
+### 5. Ride Sharing
 
 A platform for students to coordinate shared transportation for off-campus trips and events.
 
@@ -79,20 +72,7 @@ An integrated messaging platform that allows students to communicate directly wi
 4. Tailwind CSS - Utility-first CSS framework
 5. React Router - Client-side routing for single-page applications
 
-### Backend
-
-1. Node.js - JavaScript runtime for server-side logic
-2. Express.js - Web framework for building the API
-3. PostgreSQL - Relational database for data storage
-4. Sequelize - ORM for database interactions
-5. JWT - Authentication and authorization
-6. Multer - File upload handling
-7. Cloudinary - Cloud storage for images and files
-
-### DevOps
-
-1. Git - Version control
-2. Vercel - Frontend deployment
+ Git - Version controlt
 
 
 

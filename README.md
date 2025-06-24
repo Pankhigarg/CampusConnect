@@ -1,10 +1,8 @@
 # CampusConnect
 
-[![Weekend of Code](https://i.postimg.cc/njCM24kx/woc.jpg "Weekend of Code")](https://weekendofcode.computercodingclub.in/)
-
 ## Introduction
 
-CampusConnect is an exclusive MNNIT website which connects students and reduces the hassle of too many groups and false informations which is very prevelant in the college. Main agenda of the website is to connect students across all branches academic years, and to centralize features such as marketplace and Lost and Found.
+CampusConnect is an exclusive MANIT website which connects students and reduces the hassle of too many groups and false informations which is very prevelant in the college. Main agenda of the website is to connect students across all branches academic years, and to centralize features
 
 ## Features
 
